@@ -114,6 +114,20 @@
         "f1":"Free Html Templates"
      },
 
+     "color":{
+        "header":"grey",
+        "book":"red",
+        "car":"red",
+        "about":"grey",
+        "best":"red",
+        "rent":"grey",
+        "blog":"red",
+        "us":"grey",
+        "client":"red",
+        "contact":"grey",
+        "footer":"red"
+     },
+
         "images": {
         "img1": "images/hero-img.jpg",
         "img2": "images/book-car.png",

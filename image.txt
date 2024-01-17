@@ -1,0 +1,25 @@
+{
+            "images": {
+        "img1": "images/hero-img.jpg",
+        "img2": "images/book-car.png",
+        "img3": "images/c-1.png",
+        "img4": "images/c-2.png",
+        "img5": "images/c-3.png",
+        "img6": "images/about-img.png",
+        "img7": "images/r-1.png",
+        "img8": "images/r-2.png",
+        "img9": "images/r-3.png",
+        "img10": "images/r-4.png",
+        "img11": "images/r-5.png",
+        "img12": "images/r-6.png",
+        "img13": "images/b-1.jpg",
+        "img14": "images/b-2.jpg",
+        "img15": "images/b-3.jpg",
+        "img16": "images/b-2.jpg",
+        "img17": "images/u-1.png",
+        "img18": "images/u-2.png",
+        "img19": "images/u-3.png",
+        "img20": "images/u-4.png"
+    }
+
+}

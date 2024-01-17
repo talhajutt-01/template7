@@ -92,6 +92,19 @@ const co3 = document.getElementById('co3');
 const f0 = document.getElementById('f0');
 const f1 = document.getElementById('f1');
 
+const g0 = document.getElementById('header');
+const g1 = document.getElementById('book');
+const g2 = document.getElementById('car');
+const g3 = document.getElementById('about');
+const g4 = document.getElementById('best');
+const g5 = document.getElementById('rent');
+const g6 = document.getElementById('blog');
+const g7 = document.getElementById('us');
+const g8 = document.getElementById('client');
+const g9 = document.getElementById('contact');
+const g10 = document.getElementById('footer');
+
+
 const img1 = document.getElementById('img1');
 const img2 = document.getElementById('img2');
 const img3 = document.getElementById('img3');
@@ -130,6 +143,10 @@ function updateContent(element, newValue) {
   function updateImageSrc(imageElement, newSrc) {
     // Update the src attribute of the image element
     imageElement.src = newSrc;
+}
+function updateBackgroundColor(element, newColor) {
+  // Update the background color for the element
+  element.style.backgroundColor = newColor;
 }
 
   
@@ -232,6 +249,18 @@ function updateContent(element, newValue) {
             updateContent(f0, jsonData.footer.f0);
             updateContent(f1, jsonData.footer.f1);
 
+            updateBackgroundColor(g0, jsonData.color.header);
+            updateBackgroundColor(g1, jsonData.color.book);
+            updateBackgroundColor(g2, jsonData.color.car);
+            updateBackgroundColor(g3, jsonData.color.about);
+            updateBackgroundColor(g4, jsonData.color.best);
+            updateBackgroundColor(g5, jsonData.color.rent);
+            updateBackgroundColor(g6, jsonData.color.blog);
+            updateBackgroundColor(g7, jsonData.color.us);
+            updateBackgroundColor(g8, jsonData.color.client);
+            updateBackgroundColor(g9, jsonData.color.contact);
+            updateBackgroundColor(g10, jsonData.color.footer);
+
             updateImageSrc(img1, jsonData.images.img1);
             updateImageSrc(img2, jsonData.images.img2);
             updateImageSrc(img3, jsonData.images.img3);
@@ -253,6 +282,7 @@ function updateContent(element, newValue) {
             updateImageSrc(img19, jsonData.images.img19);
             updateImageSrc(img20, jsonData.images.img20);
             
+
             
             // Extract the filename from the path
             const fileName = pageName.split('/').pop();
