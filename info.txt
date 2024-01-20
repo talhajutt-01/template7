@@ -1,0 +1,180 @@
+{
+    "title": {
+        "title": "Updated Rent4u"
+    },
+
+     "nav": { 
+        //anotther section  all elements are link and headion is text
+        "heading":"Updated Rent4u",
+        "nav0": "home",
+        "nav1": "About",
+        "nav2": "Cars",
+        "nav3": "Blog",
+        "nav4": "Contact Us",
+        "nav5": "Login"
+    },
+
+     "slide":{
+        //anotther section  all elements are text and s1,s3,s5 are buttons or links
+        "s0":"updated Rent Car Experts Service",
+        "s1":"updated Contact Us",
+        "s2":"updated Rent Car Experts Service",
+        "s3":"updated Contact Us",
+        "s4":"Rent Car Experts Service",
+        "s5":"Contact Us"
+    },
+
+     "car":{
+        //anotther section  all elements are text  and c2,c5,c7,c10 are button
+        "c0":"update Better Way For Find Your Favourite Cars",
+        "c1":"It is a long established fact that a reader will be distracted by the readable",
+        "c2":"Choose Your Car",
+        "c3":"update It is a long established fact that a reader will be distracted by the readable content of a page when",
+        "c4":"update Read More",
+        "c5":"Get Your Car",
+        "c6":"It is a long established fact that a reader will be distracted by the readable content of a page when",
+        "c7":"Read More",
+        "c8":"Contact Your Dealer",
+        "c9":"It is a long established fact that a reader will be distracted by the readable content of a page when",
+        "c10":"Read More"
+     },
+
+      "about":{
+        //anotther section  all elements are text  and a2 is button
+        "a0":"update About Our Cars",
+        "a1":"update It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem",
+        "a2":"update Read More"
+    },
+
+    "best":{
+        //anotther section  all elements are text and p2 is button
+        "p0":"update Our Best Cars",
+        "p1":"update It is a long established fact that a reader will be distracted by the",
+        "p2":"update Book Now"
+    },
+
+    "rent":{
+        //anotther section  all elements are text and r6 is button
+        "r0":"update Rent $200",
+        "r1":"update Rent $200",
+        "r2":"update Rent $200",
+        "r3":"update Rent $200",
+        "r4":"update Rent $200",
+        "r5":"update Rent $200",
+        "r6":"update Rent See More"
+    },
+
+     "blog":{
+        //anotther section  all elements are text 
+        "b0":"update Our Latest Blog",
+        "b1":"It is a long established fact that a reader will be distracted by the",
+        "b2":"04 Nov 2019",
+        "b3":"Vintage",
+        "b4":"It is a long established fact that a reader will be distracted by the readable The point of using Lorem",
+        "b5":"04 Nov 2019",
+        "b6":"Steering wheels",
+        "b7":"It is a long established fact that a reader will be distracted by the readable The point of using Lorem",
+        "b8":"04 Nov 2019",
+        "b9":"Buick Car",
+        "b10":"It is a long established fact that a reader will be distracted by the readable The point of using Lorem",
+        "b11":"04 Nov 2019",
+        "b12":"Steering wheels",
+        "b13":"It is a long established fact that a reader will be distracted by the readable The point of using Lorem"
+     },
+
+       "us":{
+        //anotther section  all elements are text  and u6 is link
+        "u0":"Updated Why choose Us",
+        "u1":"It is a long established fact that a reader will be distracted by the",
+        "u2":"Low Rent",
+        "u3":"Updated Fast Car",
+        "u4":"Updated Safe Car",
+        "u5":"Quick Support",
+        "u6":"Updated Read More"
+    },
+
+    "client" : {
+        //anotther section  all elements are text 
+        "cl0":"updated What Is say Customer",
+        "cl1":"updated It is a long established fact that a reader will be distracted by the",
+        "cl2":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem",
+        "cl3":"Established",
+        "cl4":"by the readable",
+        "cl5":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem",
+        "cl6":"Blished",
+        "cl7":"by the readable",
+        "cl8":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem",
+        "cl9":"Establi",
+        "cl10":"by the readable",
+        "cl11":"updated It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem",
+        "cl12":"updated Establi",
+        "cl13":"updated by the readable"
+     },
+
+     "contact":{
+        //anotther section  all elements are text 
+        "co0":"u Request A call back",
+        "co1":"Loram Ipusum ari lo elisant na",
+        "co2":"(+12 1234456789)",
+        "co3":"demo@gmail.com"
+     },
+
+     "footer":{
+        //anotther section  all elements are text 
+        "f0":"update Copyright 2020 All Rights Reserved. Design by",
+        "f1":"Free Html Templates"
+     },
+
+     "color":{
+        //change color scheme
+        "header":"grey",
+        "book":"red",
+        "car":"red",
+        "about":"grey",
+        "best":"red",
+        "rent":"grey",
+        "blog":"red",
+        "us":"grey",
+        "client":"red",
+        "contact":"grey",
+        "footer":"red"
+     },
+
+        "images": {
+        //image of slider section
+        "img1": "images/hero-img.jpg",
+
+        //image of  book section
+        "img2": "images/book-car.png",
+
+        //image of  car section
+        "img3": "images/c-1.png",
+        "img4": "images/c-2.png",
+        "img5": "images/c-3.png",
+        
+        //image of  about section
+        "img6": "images/about-img.png",
+
+        //image of  rent section
+        "img7": "images/r-1.png",
+        "img8": "images/r-2.png",
+        "img9": "images/r-3.png",
+        "img10": "images/r-4.png",
+        "img11": "images/r-5.png",
+        "img12": "images/r-6.png",
+
+        //image of  blog section
+        "img13": "images/b-1.jpg",
+        "img14": "images/b-2.jpg",
+        "img15": "images/b-3.jpg",
+        "img16": "images/b-2.jpg",
+
+        //image of  us section
+        "img17": "images/u-1.png",
+        "img18": "images/u-2.png",
+        "img19": "images/u-3.png",
+        "img20": "images/u-4.png"
+    }
+
+
+}
