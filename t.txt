@@ -4,7 +4,7 @@
     },
 
      "nav": {
-        "heading":"Updated Rent4u",
+        "heading":"Rent4u",
         "nav0": "home",
         "nav1": "About",
         "nav2": "Cars",
@@ -14,20 +14,20 @@
     },
 
      "slide":{
-        "s0":"updated Rent Car Experts Service",
-        "s1":"updated Contact Us",
-        "s2":"updated Rent Car Experts Service",
-        "s3":"updated Contact Us",
+        "s0":"Rent Car Experts Service",
+        "s1":"Contact Us",
+        "s2":"Rent Car Experts Service",
+        "s3":"Contact Us",
         "s4":"Rent Car Experts Service",
         "s5":"Contact Us"
     },
 
      "car":{
-        "c0":"update Better Way For Find Your Favourite Cars",
+        "c0":"Better Way For Find Your Favourite Cars",
         "c1":"It is a long established fact that a reader will be distracted by the readable",
         "c2":"Choose Your Car",
-        "c3":"update It is a long established fact that a reader will be distracted by the readable content of a page when",
-        "c4":"update Read More",
+        "c3":"It is a long established fact that a reader will be distracted by the readable content of a page when",
+        "c4":"Read More",
         "c5":"Get Your Car",
         "c6":"It is a long established fact that a reader will be distracted by the readable content of a page when",
         "c7":"Read More",
@@ -37,29 +37,29 @@
      },
 
       "about":{
-        "a0":"update About Our Cars",
-        "a1":"update It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem",
-        "a2":"update Read More"
+        "a0":"About Our Cars",
+        "a1":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem",
+        "a2":"Read More"
     },
 
     "best":{
-        "p0":"update Our Best Cars",
-        "p1":"update It is a long established fact that a reader will be distracted by the",
-        "p2":"update Book Now"
+        "p0":"Our Best Cars",
+        "p1":"It is a long established fact that a reader will be distracted by the",
+        "p2":"Book Now"
     },
 
     "rent":{
-        "r0":"update Rent $200",
-        "r1":"update Rent $200",
-        "r2":"update Rent $200",
-        "r3":"update Rent $200",
-        "r4":"update Rent $200",
-        "r5":"update Rent $200",
-        "r6":"update Rent See More"
+        "r0":"Rent $200",
+        "r1":"Rent $200",
+        "r2":"Rent $200",
+        "r3":"Rent $200",
+        "r4":"Rent $200",
+        "r5":"Rent $200",
+        "r6":"Rent See More"
     },
 
      "blog":{
-        "b0":"update Our Latest Blog",
+        "b0":"Our Latest Blog",
         "b1":"It is a long established fact that a reader will be distracted by the",
         "b2":"04 Nov 2019",
         "b3":"Vintage",
@@ -76,18 +76,18 @@
      },
 
        "us":{
-        "u0":"Updated Why choose Us",
+        "u0":"Why choose Us",
         "u1":"It is a long established fact that a reader will be distracted by the",
         "u2":"Low Rent",
-        "u3":"Updated Fast Car",
-        "u4":"Updated Safe Car",
+        "u3":"Fast Car",
+        "u4":"Safe Car",
         "u5":"Quick Support",
-        "u6":"Updated Read More"
+        "u6":"Read More"
     },
 
     "client" : {
-        "cl0":"updated What Is say Customer",
-        "cl1":"updated It is a long established fact that a reader will be distracted by the",
+        "cl0":"What Is say Customer",
+        "cl1":"It is a long established fact that a reader will be distracted by the",
         "cl2":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem",
         "cl3":"Established",
         "cl4":"by the readable",
@@ -103,29 +103,29 @@
      },
 
      "contact":{
-        "co0":"u Request A call back",
+        "co0":"Request A call back",
         "co1":"Loram Ipusum ari lo elisant na",
         "co2":"(+12 1234456789)",
         "co3":"demo@gmail.com"
      },
 
      "footer":{
-        "f0":"update Copyright 2020 All Rights Reserved. Design by",
+        "f0":"Copyright 2020 All Rights Reserved. Design by",
         "f1":"Free Html Templates"
      },
 
      "color":{
-        "header":"grey",
-        "book":"red",
-        "car":"red",
-        "about":"grey",
-        "best":"red",
-        "rent":"grey",
-        "blog":"red",
-        "us":"grey",
-        "client":"red",
-        "contact":"grey",
-        "footer":"red"
+        "header":".",
+        "book":".",
+        "car":".",
+        "about":".",
+        "best":".",
+        "rent":".",
+        "blog":".",
+        "us":".",
+        "client":".",
+        "contact":".",
+        "footer":"."
      }
 
 

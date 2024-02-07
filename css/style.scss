@@ -720,7 +720,7 @@ a:focus {
   }
 
   .owl-carousel .owl-nav .owl-prev {
-    left: calc(95% - 45px);
+    
     background-image: url(../images/left-angle.png);
 
     &:hover {
@@ -729,7 +729,7 @@ a:focus {
   }
 
   .owl-carousel .owl-nav .owl-next {
-    right: calc(5% - 45px);
+    
     background-image: url(../images/right-angle.png);
 
     &:hover {
@@ -892,7 +892,8 @@ a:focus {
   }
 
   .owl-carousel .owl-nav .owl-prev {
-    left: calc(50% - 45px);
+    left: calc(-1% - 45px);
+    top: calc(30% - 1px);
     background-image: url(../images/left-angle.png);
 
     &:hover {
@@ -901,7 +902,8 @@ a:focus {
   }
 
   .owl-carousel .owl-nav .owl-next {
-    right: calc(50% - 45px);
+    right: calc(4% - 100px);
+    top: calc(30% - 1px);
     background-image: url(../images/right-angle.png);
 
     &:hover {
@@ -1041,3 +1043,14 @@ a:focus {
 }
 
 // end footer section
+
+.blog_section .owl-carousel .owl-nav .owl-prev{
+  left: calc(-1% - 45px);
+  top: calc(30% - 1px);
+  background-image: url(../images/left-angle.png);
+}
+.blog_section .owl-carousel .owl-nav .owl-next{
+  right: calc(4% - 100px);
+  top: calc(30% - 1px);
+  background-image: url(../images/right-angle.png);
+}
